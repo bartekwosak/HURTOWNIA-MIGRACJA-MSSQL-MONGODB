@@ -1,0 +1,7 @@
+W programie MongoDB Compass usunąć kolekcję FIRMA_BUDOWLANA i założyć 3 nowe:
+
+- FIRMA_BUDOWLANA_2
+- FIRMA_BUDOWLANA_3
+- FIRMA_BUDOWLANA_4
+
+Następnie w programie Studio3T zaimportować pliki z folderu JSON zgodnie z etapami.
